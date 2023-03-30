@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GameSearch/static/css/main.976bff9d.css",
+    "main.js": "/GameSearch/static/js/main.ee9014b0.js",
+    "index.html": "/GameSearch/index.html",
+    "main.976bff9d.css.map": "/GameSearch/static/css/main.976bff9d.css.map",
+    "main.ee9014b0.js.map": "/GameSearch/static/js/main.ee9014b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.976bff9d.css",
+    "static/js/main.ee9014b0.js"
+  ]
+}
